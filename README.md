@@ -10,8 +10,8 @@ blogdown::install_hugo(force = TRUE)
 2. Open academic.Rproj in this repo
 3. In the RStudio menu bar, choose Addins > Serve Site (clicking this button will call blogdown:::serve_site())
 4. Manage content according to [here](https://sourcethemes.com/academic/docs/managing-content/). The serve site would be updated synchronously 
-5. The website's HTML code would be generated in the folder 'homepage/public/'
-6. Replace the files in 'shanhelab.github.io/' with the files in 'homepage/'
+5. The website's HTML code would be generated in the folder 'shanhelab/homepage/public/'
+6. Replace the files in 'shanhelab/shanhelab.github.io/' with the files in 'shanhelab/homepage/public/'
 
 
 ---------- 
