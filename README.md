@@ -1,3 +1,16 @@
+This R project is used according to https://sourcethemes.com/academic/docs/install/#install-with-rstudio
+
+To build and view the homepage: 
+
+1. Following the [instruction](https://sourcethemes.com/academic/docs/install/#install-with-rstudio) to setup dependecies 
+2. Open academic.Rproj in this repo
+3. In the RStudio menu bar, choose Addins > Serve Site (clicking this button will call blogdown:::serve_site())
+4. Manage content according to [here](https://sourcethemes.com/academic/docs/managing-content/)
+5. The website's HTML code would be generated in the folder 'homepage/public/'
+6. Replace the files in 'shanhelab.github.io/' with the files in 'homepage/'
+
+
+---------- 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
